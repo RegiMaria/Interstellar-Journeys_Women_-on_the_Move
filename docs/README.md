@@ -24,5 +24,5 @@ This time, my biggest challenges were related to creating the **graphs**. I shou
 - matplotlib 3.7.2
 - seaborn 0.12.2
 
-Dataset : [Interstellar Travel Customer Satisfaction Analysis] (https://www.kaggle.com/datasets/anthonytherrien/interstellar-travel-customer-satisfaction-analysis?select=interstellar_travel.csv)
+Dataset : [Interstellar Travel Customer Satisfaction Analysis](url)
 
